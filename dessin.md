@@ -1,20 +1,23 @@
 # **Dessin**
 
-danabdou$ *pwd*
+1. danabdou$ *pwd*
 
-danabdou$ *touch .configuration*
+2. danabdou$ *touch .configuration*
 
-danabdou$ *ls -alt*
+3. danabdou$ *ls -alt*
 
-danabdou$ *mkdir -p creation/crayons*
+4. danabdou$ *mkdir -p creation/crayons*
 
-crayons danabdou$ *touch couleurs.txt*
+5crayons danabdou$ *touch couleurs.txt*
 
-crayons danabdou$ *cp couleurs.txt colors.txt*
+6. crayons danabdou$ *cp couleurs.txt colors.txt*
 
 crayons danabdou$ *cd ..*
 
-creation danabdou$ *touch gomme.txt*
+7. creation danabdou$ *touch gomme.txt*
 
-creation danabdou$ *mv gomme.txt crayons*
-/Users/danabdou/creation
+8. creation danabdou$ *mv gomme.txt crayons*
+
+9. creation danabdou$ *cd ~*
+
+10. /Users/danabdou/creation
