@@ -6,23 +6,23 @@ _______________________________
 
 /Users/danabdou/conteneur
 
-conteneur danabdou$ *ls*
+2. conteneur danabdou$ *ls*
 
 electronique	ustensiles	voitures
 
-danabdou$ *mkdir -p actualites/politiques*
+3. danabdou$ *mkdir -p actualites/politiques*
 
 danabdou$ *cd politiques*
 
-danabdou$ *mkdir elections*
+4.danabdou$ *mkdir elections*
 
 danabdou$ *cd elections*
 
-danabdou$ *touch candidats.txt*
+5. danabdou$ *touch candidats.txt*
 
 danabdou$ *echo "kader" "ila" "sani" >> candidats.txt*
 
 politiques danabdou$ cd ../
 
-danabdou$ *mkdir buzz*
+6. danabdou$ *mkdir buzz*
  
