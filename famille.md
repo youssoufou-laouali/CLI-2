@@ -18,7 +18,7 @@ danabdou$ *mkdir grand_parent parent grand_frere grande_soeur ami connaissances*
 
 danabdou$ *cd grand_frere* 
 
-danabdou$ *mv bachir.text ../ami* 
+danabdou$ mv bachir.text ../ami 
 
 danabdou$ *cp -r ami parent* 
 

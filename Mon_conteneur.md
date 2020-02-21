@@ -1,13 +1,28 @@
-danabdou$ pwd (cette commande permet d'afficher le repertoire dans lequel on se trouve)
-danabdou$ ls (cette commande permet d'afficher les fichier present dans mon repertoire)
-mkdir conteneur (cette commande permet de creer le dossier conteneur )
-mkdir voitures ustensiles electronique (cette commande me permet de creer en meme temps les dossiers ustensiles  voitures et electronique)
-danabdou$ cd voitures (cette commande me permet d'aller dans le dossier voitures)
-touch mes_voitures.txt (cette commande me permet de creer le fichier texte mes_voitures)
-echo "benz" "toyota" "honda" >> mes_voitures.txt (cette commande me permet d'ajouter le noms des voitures dans le texte)
-danabdou$ cd .. (cette commande me permet de revenir dans le dossier conteneur)
-cd ustensiles (cette commande permet de naviguer dans ustensiles)
-touch cuisines.txt (cette commande permet de crrer le fichier texte cuisine)
-echo "louche" "casserole" "assiette" >> cuisines.txt (cette commande permet d'ajouter les trois ustensiles de cuisine a savoir casserole,assiette et louche)
-open cuisines.txt (cette commande me permet d'ouvrir le fichier cuisine)
-ls -alt (cette commande me permet de lister tous les fichiers et dossiers selon la date de creation y compris ceux qui sont caches)
+# **Exercice 2**
+
+danabdou$ *pwd* 
+
+danabdou$ *ls* 
+
+danabdou$ *mkdir conteneur*
+
+danabdou$ *mkdir voitures ustensiles electronique* 
+
+danabdou$ *cd voitures* 
+
+danabdou$ *touch mes_voitures.txt* 
+
+danabdou$ *echo "benz" "toyota" "honda" >> mes_voitures.txt* 
+
+danabdou$ *cd ..* 
+
+danabdou$ *cd ustensiles* 
+
+danabdou$ touch cuisines.txt* 
+
+danabdou$ *echo "louche" "casserole" 
+"assiette" >> cuisines.txt* 
+
+danabdou$ *open cuisines.txt*
+
+danabdou$ *ls -alt* 
