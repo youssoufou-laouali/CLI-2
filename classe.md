@@ -1,17 +1,17 @@
 # **Exercice 5**
 
-danabdou$ *mkdir ma_classe*
+1. danabdou$ *mkdir ma_classe*
 
-danabdou$ *touch mes_camarades.txt*
+2. danabdou$ *touch mes_camarades.txt*
 
 danabdou$ *echo "kader" "ila" "aziz" >> mes_camarades.txt*
 
-danabdou$ *open mes_camarades.txt*
+3. danabdou$ *open mes_camarades.txt*
 
-danabdou$ *touch surveillant.txt*
+4. danabdou$ *touch surveillant.txt*
 
-danabdou$ *ls -alt*
+5. danabdou$ *ls -alt*
 
-danabdou$ *rm surveillant.txt*
+6. danabdou$ *rm surveillant.txt*
 
-danabdou$ *rm -rf ma_classe*
+7. danabdou$ *rm -rf ma_classe*
