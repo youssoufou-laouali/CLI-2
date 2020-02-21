@@ -1,20 +1,20 @@
 # **Exercice 2**
 
-danabdou$ *pwd* 
+1. danabdou$ *pwd* 
 
-danabdou$ *ls* 
+2. danabdou$ *ls* 
 
-danabdou$ *mkdir conteneur*
+3. danabdou$ *mkdir conteneur*
 
-danabdou$ *mkdir voitures ustensiles electronique* 
+4. danabdou$ *mkdir voitures ustensiles electronique* 
 
-danabdou$ *cd voitures* 
+5. danabdou$ *cd voitures* 
 
 danabdou$ *touch mes_voitures.txt* 
 
-danabdou$ *echo "benz" "toyota" "honda" >> mes_voitures.txt* 
+6. danabdou$ *echo "benz" "toyota" "honda" >> mes_voitures.txt* 
 
-danabdou$ *cd ..* 
+7. danabdou$ *cd ..* 
 
 danabdou$ *cd ustensiles* 
 
@@ -23,6 +23,6 @@ danabdou$ touch cuisines.txt*
 danabdou$ *echo "louche" "casserole" 
 "assiette" >> cuisines.txt* 
 
-danabdou$ *open cuisines.txt*
+9. danabdou$ *open cuisines.txt*
 
-danabdou$ *ls -alt* 
+10. danabdou$ *ls -alt* 
