@@ -20,4 +20,5 @@ crayons danabdou$ *cd ..*
 
 9. creation danabdou$ *cd ~*
 
-10. /Users/danabdou/creation
+10. /Users/danabdou/creation 
+10. pwd
